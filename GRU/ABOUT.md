@@ -1,5 +1,5 @@
 
-settings--> Epoch: 16 || Batch_size: 16 || Sequence len.: 500
+settings--> Epoch: 40 || Batch_size: 16 || Sequence len.: 500
 Test Loss(mse): 0.06370624899864197
 Test MAE: 0.25212547183036804
 Model: "sequential"
