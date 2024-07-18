@@ -25,4 +25,4 @@ Trainable params: 91,251
 Non-trainable params: 0
 _________________________________________________________________
 
-graph1:![lstm_1_loss](https://github.com/user-attachments/assets/71f92254-9bea-40d1-ba79-8128f899c098)
+graph1(loss vs epoch):![lstm_1_loss](https://github.com/user-attachments/assets/71f92254-9bea-40d1-ba79-8128f899c098)
